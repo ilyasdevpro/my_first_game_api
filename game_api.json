@@ -32,7 +32,7 @@
 
   "Interstitial": "admob",
   "Banner": "gfx",
-  "Native": "facebook",
+  "Native": "applovin",
   "Rewarded": "admob",
 
   "start_inter": true,
