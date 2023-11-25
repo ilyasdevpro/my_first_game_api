@@ -5,8 +5,8 @@
   "ironsource_rewarded_id": "xxxx",
 
   "applovin_banner_id": "xxxxxx",
-  "applovin_interstitial_id": "46533d5498369832",
-  "applovin_native_id": "5558e8c2274b73b9",
+  "applovin_interstitial_id": "xxxxxx",
+  "applovin_native_id": "xxxxxx",
   "applovin_rewarded_id": "xxxxxx",
   "max": true,
 
@@ -28,18 +28,27 @@
 
   "startapp_id": "xxxxxxxx",
 
-  "Ads Explanation": " gfx | applovin | admob | facebook | ironsource | unity | startapp ",
+  "onesignal_id": "xxxxxxx",
 
-  "Interstitial": "admob",
+  "ad_init explination": "admob | applovin | facebook | ironsource | unity | startappp | all",
+
+  "ad_init": "all",
+
+  "quiz_start_interstitial": "admob",
+
+  "quiz_second_interstitial": "admob",
+
+  "play_interstitial": "admob",
+
+  "more_app_interstitial": "admob",
+
   "Banner": "gfx",
-  "Native": "admob",
+  "Native": "gfx",
   "Rewarded": "admob",
 
   "start_inter": true,
   "gender_inter": false,
   "setup_inter": true,
-
-  "onesignal_id": "xxxxxxx",
 
   "show_quiz": true,
 
@@ -83,6 +92,765 @@
   "app_title_3": "Plants vs. Zombies™",
   "app_desc_3": "Soil your plants as a mob of fun-loving zombies",
   "app_url_3": "com.ea.game.pvzfree_row",
+
+  "categories": [
+    {
+      "questions": [
+        {
+          "text": "Which planet is the hottest in the solar system?",
+          "options": [
+            {
+              "code": "A",
+              "text": "Earth",
+              "isCorrect": false
+            },
+            {
+              "code": "B",
+              "text": "Venus",
+              "isCorrect": true
+            },
+            {
+              "code": "C",
+              "text": "Jupiter",
+              "isCorrect": false
+            },
+            {
+              "code": "D",
+              "text": "Saturn",
+              "isCorrect": false
+            }
+          ],
+          "solution": "Venus is the hottest planet in the solar system"
+        },
+        {
+          "text": "How many molecules of oxygen does ozone have?",
+          "options": [
+            {
+              "code": "A",
+              "text": "1",
+              "isCorrect": false
+            },
+            {
+              "code": "B",
+              "text": "2",
+              "isCorrect": false
+            },
+            {
+              "code": "C",
+              "text": "5",
+              "isCorrect": false
+            },
+            {
+              "code": "D",
+              "text": "3",
+              "isCorrect": true
+            }
+          ],
+          "solution": "Ozone have 3 molecules of oxygen"
+        },
+        {
+          "text": "What is the symbol for potassium?",
+          "options": [
+            {
+              "code": "A",
+              "text": "N",
+              "isCorrect": false
+            },
+            {
+              "code": "B",
+              "text": "S",
+              "isCorrect": false
+            },
+            {
+              "code": "C",
+              "text": "P",
+              "isCorrect": false
+            },
+            {
+              "code": "D",
+              "text": "K",
+              "isCorrect": true
+            }
+          ],
+          "solution": "The symbol for potassium is K"
+        },
+        {
+          "text": "Which of these plays was famously first performed posthumously after the playwright committed suicide?",
+          "options": [
+            {
+              "code": "A",
+              "text": "4.48 Psychosis",
+              "isCorrect": true
+            },
+            {
+              "code": "B",
+              "text": "Hamilton",
+              "isCorrect": false
+            },
+            {
+              "code": "C",
+              "text": "Much Ado About Nothing",
+              "isCorrect": false
+            },
+            {
+              "code": "D",
+              "text": "The Birthday Party",
+              "isCorrect": false
+            }
+          ],
+          "solution": "4.48 Psychosis is the correct answer for this question"
+        },
+        {
+          "text": "What year was the very first model of the iPhone released?",
+          "options": [
+            {
+              "code": "A",
+              "text": "2005",
+              "isCorrect": false
+            },
+            {
+              "code": "B",
+              "text": "2008",
+              "isCorrect": false
+            },
+            {
+              "code": "C",
+              "text": "2007",
+              "isCorrect": true
+            },
+            {
+              "code": "D",
+              "text": "2006",
+              "isCorrect": false
+            }
+          ],
+          "solution": "iPhone was first released in 2007"
+        },
+        {
+          "text": "Which element is said to keep bones strong?",
+          "options": [
+            {
+              "code": "A",
+              "text": "Carbon",
+              "isCorrect": false
+            },
+            {
+              "code": "B",
+              "text": "Oxygen",
+              "isCorrect": false
+            },
+            {
+              "code": "C",
+              "text": "Calcium",
+              "isCorrect": true
+            },
+            {
+              "code": "D",
+              "text": "Pottasium",
+              "isCorrect": false
+            }
+          ],
+          "solution": "Calcium is the element responsible for keeping the bones strong"
+        },
+        {
+          "text": "What country won the very first FIFA World Cup in 1930?",
+          "options": [
+            {
+              "code": "A",
+              "text": "Brazil",
+              "isCorrect": false
+            },
+            {
+              "code": "B",
+              "text": "Germany",
+              "isCorrect": false
+            },
+            {
+              "code": "C",
+              "text": "Italy",
+              "isCorrect": false
+            },
+            {
+              "code": "D",
+              "text": "Uruguay",
+              "isCorrect": true
+            }
+          ],
+          "solution": "Uruguay was the first country to win world cup"
+        }
+      ],
+      "categoryName": "Physics",
+      "imageUrl": "assets/images/quiz/physics.png",
+      "description": "Practice questions from various chapters in physics"
+    },
+    {
+      "questions": [
+        {
+          "text": "Which planet is the hottest in the solar system?",
+          "options": [
+            {
+              "code": "A",
+              "text": "Earth",
+              "isCorrect": false
+            },
+            {
+              "code": "B",
+              "text": "Venus",
+              "isCorrect": true
+            },
+            {
+              "code": "C",
+              "text": "Jupiter",
+              "isCorrect": false
+            },
+            {
+              "code": "D",
+              "text": "Saturn",
+              "isCorrect": false
+            }
+          ],
+          "solution": "Venus is the hottest planet in the solar system"
+        },
+        {
+          "text": "How many molecules of oxygen does ozone have?",
+          "options": [
+            {
+              "code": "A",
+              "text": "1",
+              "isCorrect": false
+            },
+            {
+              "code": "B",
+              "text": "2",
+              "isCorrect": false
+            },
+            {
+              "code": "C",
+              "text": "5",
+              "isCorrect": false
+            },
+            {
+              "code": "D",
+              "text": "3",
+              "isCorrect": true
+            }
+          ],
+          "solution": "Ozone have 3 molecules of oxygen"
+        },
+        {
+          "text": "What is the symbol for potassium?",
+          "options": [
+            {
+              "code": "A",
+              "text": "N",
+              "isCorrect": false
+            },
+            {
+              "code": "B",
+              "text": "S",
+              "isCorrect": false
+            },
+            {
+              "code": "C",
+              "text": "P",
+              "isCorrect": false
+            },
+            {
+              "code": "D",
+              "text": "K",
+              "isCorrect": true
+            }
+          ],
+          "solution": "The symbol for potassium is K"
+        },
+        {
+          "text": "Which of these plays was famously first performed posthumously after the playwright committed suicide?",
+          "options": [
+            {
+              "code": "A",
+              "text": "4.48 Psychosis",
+              "isCorrect": true
+            },
+            {
+              "code": "B",
+              "text": "Hamilton",
+              "isCorrect": false
+            },
+            {
+              "code": "C",
+              "text": "Much Ado About Nothing",
+              "isCorrect": false
+            },
+            {
+              "code": "D",
+              "text": "The Birthday Party",
+              "isCorrect": false
+            }
+          ],
+          "solution": "4.48 Psychosis is the correct answer for this question"
+        },
+        {
+          "text": "What year was the very first model of the iPhone released?",
+          "options": [
+            {
+              "code": "A",
+              "text": "2005",
+              "isCorrect": false
+            },
+            {
+              "code": "B",
+              "text": "2008",
+              "isCorrect": false
+            },
+            {
+              "code": "C",
+              "text": "2007",
+              "isCorrect": true
+            },
+            {
+              "code": "D",
+              "text": "2006",
+              "isCorrect": false
+            }
+          ],
+          "solution": "iPhone was first released in 2007"
+        },
+        {
+          "text": "Which element is said to keep bones strong?",
+          "options": [
+            {
+              "code": "A",
+              "text": "Carbon",
+              "isCorrect": false
+            },
+            {
+              "code": "B",
+              "text": "Oxygen",
+              "isCorrect": false
+            },
+            {
+              "code": "C",
+              "text": "Calcium",
+              "isCorrect": true
+            },
+            {
+              "code": "D",
+              "text": "Pottasium",
+              "isCorrect": false
+            }
+          ],
+          "solution": "Calcium is the element responsible for keeping the bones strong"
+        },
+        {
+          "text": "What country won the very first FIFA World Cup in 1930?",
+          "options": [
+            {
+              "code": "A",
+              "text": "Brazil",
+              "isCorrect": false
+            },
+            {
+              "code": "B",
+              "text": "Germany",
+              "isCorrect": false
+            },
+            {
+              "code": "C",
+              "text": "Italy",
+              "isCorrect": false
+            },
+            {
+              "code": "D",
+              "text": "Uruguay",
+              "isCorrect": true
+            }
+          ],
+          "solution": "Uruguay was the first country to win world cup"
+        }
+      ],
+      "categoryName": "Chemistry",
+      "imageUrl": "assets/images/quiz/chemistry.png",
+      "description": "Practice questions from various chapters in chemistry"
+    },
+    {
+      "questions": [
+        {
+          "text": "Which planet is the hottest in the solar system?",
+          "options": [
+            {
+              "code": "A",
+              "text": "Earth",
+              "isCorrect": false
+            },
+            {
+              "code": "B",
+              "text": "Venus",
+              "isCorrect": true
+            },
+            {
+              "code": "C",
+              "text": "Jupiter",
+              "isCorrect": false
+            },
+            {
+              "code": "D",
+              "text": "Saturn",
+              "isCorrect": false
+            }
+          ],
+          "solution": "Venus is the hottest planet in the solar system"
+        },
+        {
+          "text": "How many molecules of oxygen does ozone have?",
+          "options": [
+            {
+              "code": "A",
+              "text": "1",
+              "isCorrect": false
+            },
+            {
+              "code": "B",
+              "text": "2",
+              "isCorrect": false
+            },
+            {
+              "code": "C",
+              "text": "5",
+              "isCorrect": false
+            },
+            {
+              "code": "D",
+              "text": "3",
+              "isCorrect": true
+            }
+          ],
+          "solution": "Ozone have 3 molecules of oxygen"
+        },
+        {
+          "text": "What is the symbol for potassium?",
+          "options": [
+            {
+              "code": "A",
+              "text": "N",
+              "isCorrect": false
+            },
+            {
+              "code": "B",
+              "text": "S",
+              "isCorrect": false
+            },
+            {
+              "code": "C",
+              "text": "P",
+              "isCorrect": false
+            },
+            {
+              "code": "D",
+              "text": "K",
+              "isCorrect": true
+            }
+          ],
+          "solution": "The symbol for potassium is K"
+        },
+        {
+          "text": "Which of these plays was famously first performed posthumously after the playwright committed suicide?",
+          "options": [
+            {
+              "code": "A",
+              "text": "4.48 Psychosis",
+              "isCorrect": true
+            },
+            {
+              "code": "B",
+              "text": "Hamilton",
+              "isCorrect": false
+            },
+            {
+              "code": "C",
+              "text": "Much Ado About Nothing",
+              "isCorrect": false
+            },
+            {
+              "code": "D",
+              "text": "The Birthday Party",
+              "isCorrect": false
+            }
+          ],
+          "solution": "4.48 Psychosis is the correct answer for this question"
+        },
+        {
+          "text": "What year was the very first model of the iPhone released?",
+          "options": [
+            {
+              "code": "A",
+              "text": "2005",
+              "isCorrect": false
+            },
+            {
+              "code": "B",
+              "text": "2008",
+              "isCorrect": false
+            },
+            {
+              "code": "C",
+              "text": "2007",
+              "isCorrect": true
+            },
+            {
+              "code": "D",
+              "text": "2006",
+              "isCorrect": false
+            }
+          ],
+          "solution": "iPhone was first released in 2007"
+        },
+        {
+          "text": "Which element is said to keep bones strong?",
+          "options": [
+            {
+              "code": "A",
+              "text": "Carbon",
+              "isCorrect": false
+            },
+            {
+              "code": "B",
+              "text": "Oxygen",
+              "isCorrect": false
+            },
+            {
+              "code": "C",
+              "text": "Calcium",
+              "isCorrect": true
+            },
+            {
+              "code": "D",
+              "text": "Pottasium",
+              "isCorrect": false
+            }
+          ],
+          "solution": "Calcium is the element responsible for keeping the bones strong"
+        },
+        {
+          "text": "What country won the very first FIFA World Cup in 1930?",
+          "options": [
+            {
+              "code": "A",
+              "text": "Brazil",
+              "isCorrect": false
+            },
+            {
+              "code": "B",
+              "text": "Germany",
+              "isCorrect": false
+            },
+            {
+              "code": "C",
+              "text": "Italy",
+              "isCorrect": false
+            },
+            {
+              "code": "D",
+              "text": "Uruguay",
+              "isCorrect": true
+            }
+          ],
+          "solution": "Uruguay was the first country to win world cup"
+        }
+      ],
+      "categoryName": "Maths",
+      "imageUrl": "assets/images/quiz/maths.png",
+      "description": "Practice questions from various chapters in maths"
+    },
+    {
+      "questions": [
+        {
+          "text": "Which planet is the hottest in the solar system?",
+          "options": [
+            {
+              "code": "A",
+              "text": "Earth",
+              "isCorrect": false
+            },
+            {
+              "code": "B",
+              "text": "Venus",
+              "isCorrect": true
+            },
+            {
+              "code": "C",
+              "text": "Jupiter",
+              "isCorrect": false
+            },
+            {
+              "code": "D",
+              "text": "Saturn",
+              "isCorrect": false
+            }
+          ],
+          "solution": "Venus is the hottest planet in the solar system"
+        },
+        {
+          "text": "How many molecules of oxygen does ozone have?",
+          "options": [
+            {
+              "code": "A",
+              "text": "1",
+              "isCorrect": false
+            },
+            {
+              "code": "B",
+              "text": "2",
+              "isCorrect": false
+            },
+            {
+              "code": "C",
+              "text": "5",
+              "isCorrect": false
+            },
+            {
+              "code": "D",
+              "text": "3",
+              "isCorrect": true
+            }
+          ],
+          "solution": "Ozone have 3 molecules of oxygen"
+        },
+        {
+          "text": "What is the symbol for potassium?",
+          "options": [
+            {
+              "code": "A",
+              "text": "N",
+              "isCorrect": false
+            },
+            {
+              "code": "B",
+              "text": "S",
+              "isCorrect": false
+            },
+            {
+              "code": "C",
+              "text": "P",
+              "isCorrect": false
+            },
+            {
+              "code": "D",
+              "text": "K",
+              "isCorrect": true
+            }
+          ],
+          "solution": "The symbol for potassium is K"
+        },
+        {
+          "text": "Which of these plays was famously first performed posthumously after the playwright committed suicide?",
+          "options": [
+            {
+              "code": "A",
+              "text": "4.48 Psychosis",
+              "isCorrect": true
+            },
+            {
+              "code": "B",
+              "text": "Hamilton",
+              "isCorrect": false
+            },
+            {
+              "code": "C",
+              "text": "Much Ado About Nothing",
+              "isCorrect": false
+            },
+            {
+              "code": "D",
+              "text": "The Birthday Party",
+              "isCorrect": false
+            }
+          ],
+          "solution": "4.48 Psychosis is the correct answer for this question"
+        },
+        {
+          "text": "What year was the very first model of the iPhone released?",
+          "options": [
+            {
+              "code": "A",
+              "text": "2005",
+              "isCorrect": false
+            },
+            {
+              "code": "B",
+              "text": "2008",
+              "isCorrect": false
+            },
+            {
+              "code": "C",
+              "text": "2007",
+              "isCorrect": true
+            },
+            {
+              "code": "D",
+              "text": "2006",
+              "isCorrect": false
+            }
+          ],
+          "solution": "iPhone was first released in 2007"
+        },
+        {
+          "text": "Which element is said to keep bones strong?",
+          "options": [
+            {
+              "code": "A",
+              "text": "Carbon",
+              "isCorrect": false
+            },
+            {
+              "code": "B",
+              "text": "Oxygen",
+              "isCorrect": false
+            },
+            {
+              "code": "C",
+              "text": "Calcium",
+              "isCorrect": true
+            },
+            {
+              "code": "D",
+              "text": "Pottasium",
+              "isCorrect": false
+            }
+          ],
+          "solution": "Calcium is the element responsible for keeping the bones strong"
+        },
+        {
+          "text": "What country won the very first FIFA World Cup in 1930?",
+          "options": [
+            {
+              "code": "A",
+              "text": "Brazil",
+              "isCorrect": false
+            },
+            {
+              "code": "B",
+              "text": "Germany",
+              "isCorrect": false
+            },
+            {
+              "code": "C",
+              "text": "Italy",
+              "isCorrect": false
+            },
+            {
+              "code": "D",
+              "text": "Uruguay",
+              "isCorrect": true
+            }
+          ],
+          "solution": "Uruguay was the first country to win world cup"
+        }
+      ],
+      "categoryName": "Biology",
+      "imageUrl": "assets/images/quiz/biology.png",
+      "description": "Practice questions from various chapters in biology"
+    }
+  ],
 
   "guides": [
     {
