@@ -43,7 +43,7 @@
   "more_app_interstitial": "admob",
 
   "Banner": "gfx",
-  "Native": "gfx",
+  "Native": "admob",
   "Rewarded": "admob",
 
   "start_inter": true,
