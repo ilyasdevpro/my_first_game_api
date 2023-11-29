@@ -36,11 +36,9 @@
 
   "quiz_start_interstitial": "admob",
 
-  "quiz_second_interstitial": "admob",
+  "spin_interstitial": "admob",
 
-  "play_interstitial": "admob",
-
-  "more_app_interstitial": "admob",
+  "quiz_questions_interstitial": "admob",
 
   "Banner": "gfx",
   "Native": "admob",
