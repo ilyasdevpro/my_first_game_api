@@ -38,8 +38,9 @@
 
   "spin_interstital explination": "admob | applovin | facebook | ironsource | unity | startappp | all",
   "spin_interstitial": "all",
-
-  "quiz_questions_interstitial": "admob",
+  
+  "ad_init explination": "admob | applovin | facebook | ironsource | unity | startappp | all",
+  "quiz_questions_interstitial": "all",
 
   "Banner": "gfx",
   "Native": "admob",
