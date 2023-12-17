@@ -5,8 +5,8 @@
   "ironsource_rewarded_id": "xxxx",
 
   "applovin_banner_id": "xxxxxx",
-  "applovin_interstitial_id": "1cc35db3e575180e",
-  "applovin_native_id": "18d1401045d26237",
+  "applovin_interstitial_id": "3a4ee86ed7b5ba94",
+  "applovin_native_id": "388560f2fa206568",
   "applovin_rewarded_id": "xxxxxx",
   "max": true,
 
@@ -17,13 +17,13 @@
   "is_unity_test_mode": true,
 
   "admob_banner": "ca-app-pub-3940256099942544/6300978111",
-  "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
-  "admob_native": "ca-app-pub-3940256099942544/2247696110",
+  "admob_interstitial": "ca-app-pub-7658116371389883/1374328247",
+  "admob_native": "ca-app-pub-7658116371389883/2892829014",
   "admob_rewarded": "ca-app-pub-3940256099942544/5224354917",
-  "admob_app_open_ad": "ca-app-pub-3940256099942544/9257395921",
+  "admob_app_open_ad": "ca-app-pub-7658116371389883/2495838226",
 
   "facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-  "facebook_interstitial": "IMG_16_9_APP_INSTALL#320750737401000_320761914066549",
+  "facebook_interstitial": "1343851509654238_1343851866320869",
   "facebook_native": "CAROUSEL_IMG_SQUARE_APP_INSTALL#320750737401000_320760144066726",
   "facebook_rewarded": "VID_HD_16_9_15S_APP_INSTALL#YOUR_PLACEMENT_ID",
 
