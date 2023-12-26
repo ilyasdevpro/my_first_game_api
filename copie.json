@@ -83,16 +83,16 @@
   "app_url_1": "https://play.google.com/store/apps/details?id=com.adventure.digitalcircus",
 
   "show_app_2": true,
-  "app_icon_2": "https://play-lh.googleusercontent.com/bPz1guJ6FHF3oIOEy3KqwpaDDKO-hLRaZoyzmM8bLFLN8fWm6L0_EuUnkwv9iqPo3Ag=s512-rw",
-  "app_title_2": "8 Ball Pool",
-  "app_desc_2": "8 Ball Pool is your online challenge in 3D!",
-  "app_url_2": "https://play.google.com/store/apps/details?id=com.miniclip.eightballpool",
+  "app_icon_2": "https://play-lh.googleusercontent.com/rlsabIe8XdpVHDeqz7OvGuIBfYk20pbdMVd0n_rF9MdmPkLadfO6u7SSLyawvOOXG5a6=s96-rw",
+  "app_title_2": "Bus Simulator: Stunt 3D",
+  "app_desc_2": "Bus Simulator: Stunt 3D offline",
+  "app_url_2": "https://play.google.com/store/apps/details?id=com.busstunt.simulator",
 
   "show_app_3": true,
-  "app_icon_3": "https://play-lh.googleusercontent.com/hO7716hh7NCcFauJedDclX-R3Zh9JmbSs8AUU6TP2edGVILlZM7gmyt_8WPCZELiPQA=s512-rw",
-  "app_title_3": "Plants vs. Zombies™",
-  "app_desc_3": "Soil your plants as a mob of fun-loving zombies",
-  "app_url_3": "https://play.google.com/store/apps/details?id=com.ea.game.pvzfree_row",
+  "app_icon_3": "https://play-lh.googleusercontent.com/YxezwF3FVaY2njgjkIEO9lYp_y3sfSMpXoEL67GMAaAOwxk94LodWAGpRZw3bXtw2ljf=s96-rw",
+  "app_title_3": "Ragdoll Fall Playground",
+  "app_desc_3": "Ragdoll Fall Playground simulator to break the Ragdoll Fall",
+  "app_url_3": "https://play.google.com/store/apps/details?id=com.ragdoll.playground",
 
   "categories": [
     {
