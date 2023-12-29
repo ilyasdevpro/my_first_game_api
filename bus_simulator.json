@@ -5,7 +5,7 @@
   "ironsource_rewarded_id": "xxxx",
 
   "applovin_banner_id": "xxxxxx",
-  "applovin_interstitial_id": "e9a310c3a5649519",
+  "applovin_interstitial_id": "",
   "applovin_native_id": "858c8731332f3cf3",
   "applovin_rewarded_id": "xxxxxx",
   "max": true,
@@ -17,8 +17,8 @@
   "is_unity_test_mode": true,
 
   "admob_banner": "ca-app-pub-3940256099942544/6300978111",
-  "admob_interstitial": "ca-app-pub-7658116371389883/2989231624",
-  "admob_native": "ca-app-pub-7658116371389883/4561333598",
+  "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
+  "admob_native": "ca-app-pub-3940256099942544/2247696110",
   "admob_rewarded": "ca-app-pub-3940256099942544/5224354917",
   "admob_app_open_ad": "ca-app-pub-7658116371389883/4901079094",
 
