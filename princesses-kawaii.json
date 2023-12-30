@@ -5,9 +5,9 @@
   "ironsource_rewarded_id": "xxxx",
 
   "applovin_banner_id": "xxxxxx",
-  "applovin_interstitial_id": "1cc35db3e575180e",
-  "applovin_native_id": "18d1401045d26237",
-  "applovin_rewarded_id": "xxxxxx",
+  "applovin_interstitial_id": "ebe5bf709dbe6a8f",
+  "applovin_native_id": "6e670118a5523d1a",
+  "applovin_rewarded_id": "9a62888ce8852d1a",
   "max": true,
 
   "unity_banner_id": "xxxx",
@@ -23,7 +23,7 @@
   "admob_app_open_ad": "ca-app-pub-7658116371389883/9929375612",
 
   "facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-  "facebook_interstitial": "IMG_16_9_APP_INSTALL#320750737401000_320761914066549",
+  "facebook_interstitial": "138392822701981_138393049368625",
   "facebook_native": "CAROUSEL_IMG_SQUARE_APP_INSTALL#320750737401000_320760144066726",
   "facebook_rewarded": "VID_HD_16_9_15S_APP_INSTALL#YOUR_PLACEMENT_ID",
 
