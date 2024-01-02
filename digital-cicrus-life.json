@@ -17,13 +17,13 @@
   "is_unity_test_mode": true,
 
   "admob_banner": "ca-app-pub-3940256099942544/6300978111",
-  "admob_interstitial": "ca-app-pub-7658116371389883/5086983175",
-  "admob_native": "ca-app-pub-7658116371389883/1768315578",
+  "admob_interstitial": "",
+  "admob_native": "",
   "admob_rewarded": "ca-app-pub-3940256099942544/5224354917",
-  "admob_app_open_ad": "ca-app-pub-7658116371389883/1576743881",
+  "admob_app_open_ad": "",
 
   "facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-  "facebook_interstitial": "888428032655902_888428679322504",
+  "facebook_interstitial": "",
   "facebook_native": "CAROUSEL_IMG_SQUARE_APP_INSTALL#320750737401000_320760144066726",
   "facebook_rewarded": "VID_HD_16_9_15S_APP_INSTALL#YOUR_PLACEMENT_ID",
 
@@ -33,15 +33,15 @@
 
   "ad_init explination": "admob | applovin | facebook | ironsource | unity | startappp | all",
 
-  "ad_init": "all",
+  "ad_init": "applovin",
 
-  "quiz_start_interstitial": "admob",
+  "quiz_start_interstitial": "applovin",
 
   "spin_interstital explination": "admob | applovin | facebook | ironsource | unity | startappp | all",
-  "spin_interstitial": "all",
+  "spin_interstitial": "applovin",
   
   "ad_init explination": "admob | applovin | facebook | ironsource | unity | startappp | all",
-  "quiz_questions_interstitial": "all",
+  "quiz_questions_interstitial": "applovin",
 
   "Banner": "gfx",
   "Native": "admob",
