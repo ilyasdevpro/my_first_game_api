@@ -62,7 +62,7 @@
   "clicks_to_show_inter": 2,
   "native_rate": 2,
 
-  "show_cpa": true,
+  "show_cpa": false,
   "cpa_image": "https://wordpresscdn.winzogames.com/prod/blog/wp-content/uploads/2022/01/31105343/Freefire-diamonds.jpg",
   "cpa_url": "https://linktr.ee/studiogift",
   "cpa_button_text": "Get It Now!",
