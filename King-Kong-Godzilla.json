@@ -38,7 +38,7 @@
   "quiz_start_interstitial": "admob",
 
   "spin_interstital explination": "admob | applovin | facebook | ironsource | unity | startappp | all",
-  "spin_interstitial": "admob",
+  "spin_interstitial": "all",
   
   "ad_init explination": "admob | applovin | facebook | ironsource | unity | startappp | all",
   "quiz_questions_interstitial": "all",
